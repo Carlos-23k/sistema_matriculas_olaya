@@ -8,7 +8,7 @@
 * Riesgo de deterioro o pérdida de los formatos físicos.
 
 ## 1.3. Problema Central
-La I.E. José Olaya requiere una forma organizada de registrar, validar, buscar, ordenar y almacenar los datos de las matrículas, con el fin de reducir errores y facilitar la gestión y consulta de cada estudiante matriculado[span_6](start_span)[span_6](end_span).
+La I.E. José Olaya requiere una forma organizada de registrar, validar, buscar, ordenar y almacenar los datos de las matrículas, con el fin de reducir errores y facilitar la gestión y consulta de cada estudiante matriculado.
 
 ## 1.4. Matriz de Entradas, Procesos y Salidas
 | Entradas | Procesos | Salidas |
