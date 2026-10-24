@@ -1,16 +1,16 @@
 # 2. Diseño del Algoritmo
 
-El diseño del sistema se estructura mediante un diagrama de flujo y un pseudocódigo modular que permite gestionar el registro, validación, búsqueda, ordenamiento y almacenamiento persistente de las matrículas[cite: 4, 5].
+El diseño del sistema se estructura mediante un diagrama de flujo y un pseudocódigo modular que permite gestionar el registro, validación, búsqueda, ordenamiento y almacenamiento persistente de las matrículas.
 
 ## 2.1. Diagrama de Flujo
 
-El algoritmo principal inicia cargando las matrículas existentes desde el archivo de texto `sistema_matriculas_olaya.txt`. A continuación, despliega un bucle iterativo que muestra el menú principal y procesa la opción seleccionada por el usuario (desde registrar un nuevo alumno hasta salir del sistema)[cite: 4]:
+El algoritmo principal inicia cargando las matrículas existentes desde el archivo de texto `sistema_matriculas_olaya.txt`. A continuación, despliega un bucle iterativo que muestra el menú principal y procesa la opción seleccionada por el usuario (desde registrar un nuevo alumno hasta salir del sistema):
 
 * **Inicio** $\rightarrow$ Cargar matrículas $\rightarrow$ Mostrar Menú Principal.
-* **Opción 1:** Registrar matrícula (valida datos, autogenera el código correlativo tipo `MAT-0001`, asigna fecha actual y guarda en el archivo)[cite: 4, 5].
-* **Opción 2 y 3:** Buscar por código o por DNI (búsqueda lineal)[cite: 4, 5].
-* **Opción 4 y 5:** Listar ordenado por código o por nombre (algoritmo de ordenamiento por inserción)[cite: 4, 5].
-* **Opción 0:** Salir del programa[cite: 4].
+* **Opción 1:** Registrar matrícula (valida datos, autogenera el código correlativo tipo `MAT-0001`, asigna fecha actual y guarda en el archivo).
+* **Opción 2 y 3:** Buscar por código o por DNI (búsqueda lineal).
+* **Opción 4 y 5:** Listar ordenado por código o por nombre (algoritmo de ordenamiento por inserción).
+* **Opción 0:** Salir del programa.
 
 ## 2.2. Pseudocódigo
 
